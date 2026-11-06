@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/debug/
+app/release/
+.idea/
+app/bc-android.keystore
+.kotlin/
+
+# bTd Phone
+keystore.properties
+app/google-services.json
+*.keystore
+*.jks
